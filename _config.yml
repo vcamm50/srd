@@ -5,12 +5,12 @@ baseurl: "" # Leave this empty if your site is username.github.io
 url: ""
 
 aux_links:
-  "Foundry VTT site": https://thebadasses.app
+  "Foundry VTT": https://thebadasses.app
 aux_links_new_tab: true
 
 # Site setup
 logo: "/assets/src-icon.png"
-favicon_ico: "/assets/src-logo.png"
+favicon_ico: "/assets/favicon.ico"
 
 color_scheme: dark
 

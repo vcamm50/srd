@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notable NPCs/Canyons Whisper/Canyon's Whisper.md",
+                "file": "index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Canyon's Whisper"
+              "title": "index"
             }
           }
         ]
@@ -186,17 +186,22 @@
   },
   "active": "a953fd5521e7dc1f",
   "lastOpenFiles": [
+    "Session Recaps/Session Recaps.md",
+    "Notable NPCs/Stonehell Prison/Stonehell Prison.md",
+    "Notable NPCs/Canyons Whisper/Canyon's Whisper.md",
+    "Notable NPCs/Notable NPCs.md",
+    "Locations/Locations.md",
+    "House Rules/House Rules.md",
+    "History/History.md",
+    "Factions/Factions.md",
+    "Graveyard/Graveyard.md",
     "index.md",
     "assets/stonehell-entrance.png",
     "Notable NPCs/Canyons Whisper/Sam Malone.md",
     "Notable NPCs/Canyons Whisper/Mayor McCheese.md",
-    "Notable NPCs/Canyons Whisper/Canyon's Whisper.md",
-    "Notable NPCs/Notable NPCs.md",
     "LICENSE",
     "Gemfile.lock",
     "Gemfile",
-    "Session Recaps/Session Recaps.md",
-    "House Rules/House Rules.md",
     "docs/README.md",
     "docs/LICENSE",
     "docs/index.md",
@@ -204,12 +209,9 @@
     "docs/Gemfile",
     "docs/_config.yml",
     "docs",
-    "History/History.md",
-    "Locations/Locations.md",
     "Locations/Stonehell Prison.md",
     "Locations/Canyon's Whisper.md",
     "favicon.ico",
-    "Notable NPCs/Stonehell Prison/Stonehell Prison.md",
     "Notable NPCs/Stonehell Prison/Snorri Broadshoulders.md",
     "Notable NPCs/Stonehell Prison/Malfreces Nul.md",
     "House Rules/Playing Your Representative.md",
@@ -220,7 +222,6 @@
     "House Rules/Character Creation.md",
     "House Rules/Agent Death.md",
     "History/The Kingdom of Anabasis.md",
-    "History/The History of Stonehell Prison.md",
     "assets/favicon.ico",
     "assets/src-icon.png",
     "Untitled.canvas"

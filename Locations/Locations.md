@@ -3,6 +3,7 @@ layout: default
 title: "Locations"
 published: true
 has_children: true
+has_toc: false
 nav_order: 6
 permalink: /locations/
 ---
