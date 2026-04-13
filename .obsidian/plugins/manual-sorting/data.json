@@ -1,0 +1,98 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "sidebar-logic.html",
+        "index.md",
+        "src-icon.png",
+        "History",
+        "House Rules",
+        "Locations",
+        "Factions",
+        "Notable NPCs",
+        "Session Recaps",
+        "Graveyard"
+      ],
+      "sortOrder": "custom"
+    },
+    "History": {
+      "children": [
+        "History/The History of Stonehell Prison.md",
+        "History/The Founding of Canyon's Whisper.md",
+        "History/The Kingdom of Anabasis.md",
+        "History/The Forming of the Stonehell Reclamation Committee.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "House Rules": {
+      "children": [
+        "House Rules/Character Creation.md",
+        "House Rules/Hirelings.md",
+        "House Rules/Excursions and Sessions.md",
+        "House Rules/Experience.md",
+        "House Rules/Playing Your Representative.md",
+        "House Rules/Agent Death.md",
+        "House Rules/Player Table.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Locations": {
+      "children": [
+        "Locations/Canyon's Whisper.md",
+        "Locations/Stonehell Prison.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notable NPCs": {
+      "children": [
+        "Notable NPCs/Notable NPCs.md",
+        "Notable NPCs/Canyons Whisper",
+        "Notable NPCs/Stonehell"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notable NPCs/Canyons Whisper": {
+      "children": [
+        "Notable NPCs/Canyons Whisper/Mayor McCheese.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notable NPCs/Stonehell": {
+      "children": [
+        "Notable NPCs/Stonehell/Snorri Broadshoulders.md",
+        "Notable NPCs/Stonehell/Malfreces Nul.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Factions": {
+      "children": [
+        "Factions/Notable Factions.md",
+        "Factions/Berserkers.md",
+        "Factions/Canyon's Whisper.md",
+        "Factions/Evil Acolytes.md",
+        "Factions/Hall of the Mountain Trolls.md",
+        "Factions/Inmates.md",
+        "Factions/Kobolds.md",
+        "Factions/Lizardfolk.md",
+        "Factions/The Hobgoblin Occupational Army.md",
+        "Factions/Wolf Gang Goblins.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Session Recaps": {
+      "children": [
+        "Session Recaps/Session -1.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Graveyard": {
+      "children": [
+        "Graveyard/Fallen Heroes.md"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}
