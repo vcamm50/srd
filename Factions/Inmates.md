@@ -1,0 +1,15 @@
+---
+layout: default
+title: "Inmates"
+published: false
+parent: "Factions"
+permalink: /factions/inmates/
+---
+These pathetic creatures are the descendants of the prison‘s most insane convicts. A goodly-hearted cleric incarcerated in the prison took it upon himself to care for those residents unhinged by [Stonehell's](Locations/Stonehell%20Prison.md) horrific conditions. This ultimately led to his death at the hands of his patients. These insane inmates claimed the former asylum as their home and their offspring still dwell there today. Each inmate of [Stonehell](Locations/Stonehell%20Prison.md) is afflicted by at least one form of insanity, their blood polluted by generations of inbreeding. While the manifestations of their insanity vary, the majority of inmates are unpredictable at best and extremely violent at their worst. Inmates share the game stats of Neanderthals (Labyrinth Lord Revised p. 89), but may be of any alignment.
+
+# Level 2a: The Asylum
+Amongst the earliest prisoners of [Stonehell](Locations/Stonehell%20Prison.md) was a Lawful cleric who had been incarcerated for his radical methods of dealing with the insane. This cleric believed that humane treatment of the mad could achieve better results than the cruel, restrictive methods usually practiced. He found opportunities to put his theories to the test as the dungeon‘s prisoners succumbed to the inhumane conditions in which they lived.
+
+In this section of the dungeon, this cleric collected prisoners driven mad by their surroundings and began treating them with the help of a handful of recently-converted acolytes. Although the patients initially showed improvement, the cleric and his acolytes were fighting against overwhelming odds. As [Stonehell](Locations/Stonehell%20Prison.md) slid into depravity, these well-meaning men and women found themselves inundated with violent psychopaths. These murderous inmates eventually overwhelmed their caretakers and slaughtered them en masse. Since that time, the mad have ruled this section of dungeon.
+
+This area is in much worse repair than the rest of the upper levels. Due to the unpredictability of the inmates, the [Kobolds](Kobolds.md) work crews make only superficial attempts to repair and maintain this section. In the absence of regular maintenance, the inmates have taken to making their own modifications to the area. Strange bits of graffiti, bizarre objects d’art, and senseless but deadly traps are found throughout the Asylum. The Labyrinth Lord is encouraged to add his own demented bits of dungeon dressing here. Anything from seemingly harmless children‘s nursery rhymes to the most twisted promises of violence can be found written on the walls. Objects completely out of place in the dungeon (toys, childish artwork, collections of bottles, bits of wire, etc.) are hoarded like gold here and should be included to add to the atmosphere of insanity that pervades this dungeon quadrant.

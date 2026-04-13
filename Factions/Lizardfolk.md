@@ -1,0 +1,13 @@
+---
+layout: default
+title: "Lizardfolk"
+published: false
+parent: "Factions"
+permalink: /factions/lizardfolk/
+---
+# Level 2b: The Reptile House
+The section of [Stonehell](Locations/Stonehell%20Prison.md) known as the Reptile House was originally constructed as a series of dormitories and storerooms. After the liberation of the prison, however, the chambers underwent numerous alterations as they passed through the hands of a would-be warlord and his band of inhuman followers. But it would be the Children of Yg, Father of Serpents, who would leave the greatest mark upon these rooms after they took possession of this dungeon section in the years following the warlord‘s defeat. While these chambers served as the cult‘s primary gathering place, the sect maintained another fane within the environs of [Stonehell](Locations/Stonehell%20Prison.md) (Level 5B p. 106) where initiates were indoctrinated into the cult and the most secret of rites were practiced.
+
+The existence of the Children of Yg was eventually discovered when their fiendish plot to take control of nearby settlements was uncovered. The forces of Law drove the cult from these halls, leaving the Reptile House open for occupation by the next wave of inhabitants.
+
+A band of lizardfolk discovered these chambers while fishing the underground river that flows past this section of the dungeon. Emerging from the muddy waters into a series of natural caves, the lizardfolk uncovered a strange vent in the floor of one of the cavern from which a miasmic gas emerged. After inadvertently inhaling this gas, the lizardfolk were gifted with strange visions and a feeling of closeness with their own scaly deity. These visions were believed to come from the divine and the cave became a holy place for the tribe. Now, each spring and summer, the young hunters of the tribe gather in the caves to receive the rites of adulthood from the aging shaman who maintains and protects this area. Although not usually blood-thirsty, the lizardfolk defend these caves and halls with aggressive violence and see the intrusion of outsiders as an affront to their beliefs and their deity. The rooms and corridors of the Reptile House sport a serpentine motif—scale-pattern tiles, sinuously carved arches, and bas-reliefs of coiled snakes, ouroboroses, and striking serpents are commonplace through the quadrant. The air here holds a faint reptilian odor, punctuated by the marshy smell of mud and stagnant water.
