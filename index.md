@@ -6,7 +6,7 @@ published: true
 nav_order: 1
 permalink: /
 ---
-Welcome to the site for The Stonehell Reclamation Committee. All history, homebrew rules, location information, and session recaps will be housed here. 
+Welcome to the site for The Stonehell Reclamation Committee. All history, homebrew rules, location and NPC information, and session recaps will be housed here. 
 
 Click the button at the top to open Foundry VTT and join during live game sessions.
 
