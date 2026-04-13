@@ -1,8 +1,61 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: "The Stonehell Reclamation Committee"
+description: "Campaign notes, player information and session reports."
 theme: just-the-docs
-
-url: https://just-the-docs.github.io
+baseurl: "" # Leave this empty if your site is username.github.io
+url: ""
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "Foundry VTT site": https://thebadasses.app
+aux_links_new_tab: true
+
+# Site setup
+logo: "/assets/src-icon.png"
+favicon_ico: "/assets/src-logo.png"
+
+color_scheme: dark
+
+back_to_top: true
+back_to_top_label: "Back to top"
+
+nav_enabled: true
+
+# Site search
+search_enabled: true
+search:
+  # Split pages into sections that can be searched individually
+  # Supports 1 - 6, default: 2
+  heading_level: 2
+  # Maximum amount of previews per search result
+  # Default: 3
+  previews: 3
+  # Maximum amount of words to display before a matched word in the preview
+  # Default: 5
+  preview_words_before: 5
+  # Maximum amount of words to display after a matched word in the preview
+  # Default: 10
+  preview_words_after: 10
+  # Set the search token separator
+  # Default: /[\s\-/]+/
+  # Example: enable support for hyphenated search words
+  tokenizer_separator: /[\s/]+/
+  # Display the relative url in search results
+  # Supports true (default) or false
+  rel_url: true
+  # Enable or disable the search button that appears in the bottom right corner of every page
+  # Supports true or false (default)
+  button: false
+  # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
+  focus_shortcut_key: 'k'
+
+#exclude:
+#  - .obsidian
+#  - .gitignore
+#  - _config.yml
+#  - README.md
+#  - Notable NPCs/Stonehell
+#  - Notable NPCs/Stonehell/Malfreces Nul.md
+#  - Notable NPCs/Stonehell/Snorri Broadshoulders.md
+
+#kramdown:
+#  input: GFM        # GitHub Flavored Markdown (enables tables, task lists)
+#  hard_wrap: false  # Matches Obsidian's default line-breaking behavior
