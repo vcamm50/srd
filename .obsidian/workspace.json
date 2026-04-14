@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Factions.md",
+                "file": "Notable NPCs/Stonehell Prison/Stonehell Prison.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Factions"
+              "title": "Stonehell Prison"
             }
           }
         ]
@@ -186,13 +186,14 @@
   },
   "active": "a953fd5521e7dc1f",
   "lastOpenFiles": [
+    "Locations/The Kingdom of Anabasis.md",
+    "Factions/Factions.md",
     "Notable NPCs/Canyons Whisper/Mayor McCheese.md",
     "Notable NPCs/Canyons Whisper/Canyon's Whisper.md",
     "Notable NPCs/Stonehell Prison/Malfreces Nul.md",
     "Notable NPCs/Stonehell Prison/Snorri Broadshoulders.md",
     "Notable NPCs/Stonehell Prison/Stonehell Prison.md",
     "Notable NPCs/Notable NPCs.md",
-    "Locations/The Kingdom of Anabasis.md",
     "Locations/Locations.md",
     "House Rules/Playing Your Representative.md",
     "Locations/Title.md",
@@ -203,7 +204,6 @@
     "Locations/Stonehell Prison.md",
     "Factions/Canyon's Whisper.md",
     "Locations/Canyon's Whisper.md",
-    "Factions/Factions.md",
     "index.md",
     "Session Recaps/Session Recaps.md",
     "House Rules/House Rules.md",

@@ -5,4 +5,4 @@ published: true
 parent: Locations
 permalink: /locations/anabasis/
 ---
-The kingdom where you live.
+The kingdom where you live. It's history can be found [here](History/The%20Kingdom%20of%20Anabasis.md).

@@ -16,3 +16,6 @@ vendor/
 
 # Obsidian's logger is chatty
 .obsidian/workspace.json
+
+# Obsidian's Github Sync's data file (has username and password)
+.obsidian/plugins/github-sync/data.json
