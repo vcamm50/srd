@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Stonehell Prison"
-published: true
-parent: "Notable NPCs"
+title: Stonehell Prison
+published: false
+parent: Notable NPCs
 has_children: true
 has_toc: false
 nav_order: 2
