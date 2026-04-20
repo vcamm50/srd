@@ -6,6 +6,6 @@ parent: Notable NPCs
 has_children: true
 has_toc: false
 nav_order: 1
-permalink: /notable-npcs/canyons-whisper/canyons-whisper
+permalink: /notable-npcs/canyons-whisper/
 ---
 All discovered NPCs in Canyon's Whisper will appear here.

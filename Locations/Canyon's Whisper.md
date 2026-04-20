@@ -10,3 +10,5 @@ Canyon's Whisper is a small/medium village located in a large clearing of a fore
 Its population consists of humans, elves, dwarves, and a handful of halfings, and most people of Canyon's Whisper are tolerant of other races.
 
 While the town is large enough to provide for its residents, it can greatly benefit from investments into its shops, inns, temples, services and farms.
+
+It's history is [here](The%20Founding%20of%20Canyon's%20Whisper.md).
