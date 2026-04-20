@@ -16,7 +16,12 @@ permalink: /house-rules/excursions-and-sessions/
 - There may be encounters when traveling to and from any destination. The Kingdom is a dangerous place. Be mindful of this towards the end of a session so we don't run past.
 - The field team is expected to be properly equipped for each outing. If an item isn't in inventory, the team doesn't have it.
 ### Agents and Excursions
-- An agent is the Committee's representative in the field. If the agent does not return to [Canyon's Whisper](Locations/Canyon's%20Whisper.md), the representative's share of the excursion's treasure is lost as per the bylaws of the Committee. 
-- A successful excursion for a representative is when their agent returns to [Canyon's Whisper](Locations/Canyon's%20Whisper.md) alive. When this happens, money and XP are divided among the survivors and the representative as noted in the OSE rulebooks and the [Experience](Experience.md) section.
-	- Should an agent die but the body is returned to [Canyon's Whisper](Locations/Canyon's%20Whisper.md) and then resurrected, the agent (and their representative) still loses their share of the treasure but the agent retains any XP from the excursion. 
-	- If an agent dies but is resurrected before returning to [Canyon's Whisper](Locations/Canyon's%20Whisper.md), the agent has returned alive and retains their share of the treasure and XP.
+- An agent is the Committee's representative in the field. If the agent does not return to Canyon's Whisper, the representative's share of the excursion's treasure is lost as per the bylaws of the Committee. 
+- A successful excursion for a representative is when their agent returns to Canyon's Whisper alive. When this happens, money and XP are divided among the survivors and the representative as noted in the OSE rulebooks and the [Experience](Experience.md) section.
+	- Should an agent die but the body is returned to Canyon's Whisper and then resurrected, the agent (and their representative) still loses their share of the treasure but the agent retains any XP from the excursion. 
+	- If an agent dies but is resurrected before returning to Canyon's Whisper, the agent has returned alive and retains their share of the treasure and XP.
+
+# Adventuring Beyond Stonehell
+While Stonehell is the focus of the Committee, it understands that wealth and development can be found elsewhere in their territory. The team can check the job board for opportunities to help those in need, travel to other towns or cities, or hit the open road and simply explore.
+
+Traveling the region will be run as a hex crawl. 
