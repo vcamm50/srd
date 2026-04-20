@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Canyon's Whisper"
+title: Canyon's Whisper
 published: true
-parent: "Notable NPCs"
+parent: Notable NPCs
 has_children: true
 has_toc: false
 nav_order: 1
-permalink: /notable-npcs/canyons-whisper/
+permalink: /notable-npcs/canyons-whisper/canyons-whisper
 ---
 All discovered NPCs in Canyon's Whisper will appear here.

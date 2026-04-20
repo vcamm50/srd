@@ -20,7 +20,6 @@ permalink: /house-rules/excursions-and-sessions/
 - A successful excursion for a representative is when their agent returns to Canyon's Whisper alive. When this happens, money and XP are divided among the survivors and the representative as noted in the OSE rulebooks and the [Experience](Experience.md) section.
 	- Should an agent die but the body is returned to Canyon's Whisper and then resurrected, the agent (and their representative) still loses their share of the treasure but the agent retains any XP from the excursion. 
 	- If an agent dies but is resurrected before returning to Canyon's Whisper, the agent has returned alive and retains their share of the treasure and XP.
-
 # Adventuring Beyond Stonehell
 While Stonehell is the focus of the Committee, it understands that wealth and development can be found elsewhere in their territory. The team can check the job board for opportunities to help those in need, travel to other towns or cities, or hit the open road and simply explore.
 
