@@ -5,6 +5,6 @@ published: true
 has_children: true
 has_toc: false
 nav_order: 3
-permalink: /session-recaps/
+# permalink: /session-recaps/
 ---
 Sessions recaps will go in this folder.
