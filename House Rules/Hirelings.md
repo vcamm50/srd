@@ -5,7 +5,7 @@ published: true
 parent: House Rules
 nav_order: 2
 ---
-The odds are stacked against you when you leave the safety of [canyons-whisper](../Locations/canyons-whisper.md). Hirelings are available and strongly recommended to boost your numbers. 
+The odds are stacked against you when you leave the safety of [Canyon's Whisper](../Locations/Canyon's%20Whisper.md). Hirelings are available and strongly recommended to boost your numbers. 
 
 Here's how they will be played.
 - Hireling's base rate of pay is based on their level but may fluctuate based on skills and abilities, especially at higher levels. See the [[#Hireling Wage Chart]] below as a starting point.

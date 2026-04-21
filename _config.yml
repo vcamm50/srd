@@ -1,7 +1,7 @@
 title: "The Stonehell Reclamation Committee"
 description: "Campaign notes, player information and session reports."
 theme: just-the-docs
-baseurl: "" # Leave this empty if your site is username.github.io
+baseurl: "vcamm50.github.io/srd" # Leave this empty if your site is username.github.io
 url: ""
 
 aux_links:
@@ -46,6 +46,3 @@ search:
   button: false
   # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
   focus_shortcut_key: 'k'
-
-kramdown:
-  hard_wrap: false  # Matches Obsidian's default line-breaking behavior

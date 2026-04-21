@@ -12,5 +12,5 @@ This section notes the locations you have visited during your travels. The table
 | Name                                                                  | Type    | Disposition |
 | --------------------------------------------------------------------- | ------- | ----------- |
 | [The Kingdom of Anabasis](../Locations/The%20Kingdom%20of%20Anabasis.md) | Kingdom | Varies      |
-| [canyons-whisper](canyons-whisper.md)                   | Village | Friendly    |
+| [Canyon's Whisper](Canyon's%20Whisper.md)                   | Village | Friendly    |
 | [Stonehell Prison](../Locations/Stonehell%20Prison.md)                   | Dungeon | Unknown     |
