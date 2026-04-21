@@ -5,7 +5,7 @@ published: true
 parent: "History"
 nav_order: 2
 ---
-Founded by [Stonehell](Locations/Stonehell%20Prison.md) escapee's, the town is named for both the winds coming from the canyon and the silent whispers it carries with it.
+Founded by [Stonehell](../Locations/Stonehell%20Prison.md) escapee's, the town is named for both the winds coming from the canyon and the silent whispers it carries with it.
 
 A long time ago a group of prisoners found a hidden cave in the depths of Stonehell. Beaten down, starving, and nothing to lose the group took the chance and fled into the cave. They spent traversing the twists and turns of the tunnels but they eventually emerged from a hidden cave entrance into daylight and freedom. Looking to distance themselves from the prison, the traveled for many days until a suitable spot to rest and rehabilitate was found.
 
