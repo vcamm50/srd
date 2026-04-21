@@ -4,7 +4,7 @@ title: "The Founding of Canyon's Whisper"
 published: true
 parent: "History"
 nav_order: 2
-permalink: /history/founding-of-canyons-whisper/
+# permalink: /history/founding-of-canyons-whisper/
 ---
 Founded by [Stonehell](Locations/Stonehell%20Prison.md) escapee's, the town is named for both the winds coming from the canyon and the silent whispers it carries with it.
 

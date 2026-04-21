@@ -4,7 +4,7 @@ title: "The Kingdom of Anabasis"
 published: true
 parent: "History"
 nav_order: 3
-permalink: /history/kingdom-of-anabasis/
+# permalink: /history/kingdom-of-anabasis/
 ---
 The tyranny of the [Sterling Potentate](The%20History%20of%20Stonehell%20Prison.md) lasted for centuries before the revolutionaries, operating in the shadows, finally stirred the citizens into action. They started in the cities using subterfuge to remove the loyalists from the local government. As each city was freed, the movement gained both momentum and additional members from the local citizens. They moved to the surrounding towns and villages, freeing the people and recruiting more at each settlement. In wasn't long before the rebellion exponentially outnumbered the Potentate's armies.
 
