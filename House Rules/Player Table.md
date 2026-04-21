@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Player Table
-published: true
+published: false
 parent: House Rules
-nav_order: 7
+nav_order: 100
 ---
 I'd like to invite several more people to join the group so we consistently have enough people to play. Among the group, I'd like 3 or 4 to be the core players that appear every week with the remaining players attend when time allows.
 
