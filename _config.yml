@@ -47,15 +47,5 @@ search:
   # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
   focus_shortcut_key: 'k'
 
-#plugins:
-#  - jekyll-relative-links
-
-exclude:
-  - .obsidian
-  - .gitignore
-  - _config.yml
-  - README.md
-
 kramdown:
-  input: GFM        # GitHub Flavored Markdown (enables tables, task lists)
   hard_wrap: false  # Matches Obsidian's default line-breaking behavior
