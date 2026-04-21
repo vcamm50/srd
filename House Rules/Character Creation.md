@@ -1,10 +1,9 @@
 ---
 layout: default
-title: "Character Creation"
+title: Character Creation
 published: true
-parent: "House Rules"
+parent: House Rules
 nav_order: 1
-permalink: /house-rules/character-creation/
 ---
 Each player will begin with two characters, a Representative and an Agent. More are possible if hirelings are employed.
 # Representative

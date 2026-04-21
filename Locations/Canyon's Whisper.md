@@ -1,9 +1,8 @@
 ---
 layout: default
-title: "Canyon's Whisper"
+title: Canyon's Whisper
 published: true
-parent: "Locations"
-permalink: /locations/canyons-whisper/
+parent: Locations
 ---
 Canyon's Whisper is a small/medium village located in a large clearing of a forest. While many trails exist in and out of the village, its main throughway joins with the King's road about mile away. This intersection is naturally hidden and only the most observant travelers would notice it when passing through. Those that do and detour into town are tempted by its friendly people and the safety the forest provides.
 

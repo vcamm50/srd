@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Lizardfolk"
+title: Lizardfolk
 published: false
-parent: "Factions"
-permalink: /factions/lizardfolk/
+parent: Factions
 ---
 Not like Godzilla

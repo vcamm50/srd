@@ -1,9 +1,8 @@
 ---
 layout: default
-title: "Wolf Gang Goblins"
+title: Wolf Gang Goblins
 published: false
-parent: "Factions"
-permalink: /factions/wolf-gang-goblins/
+parent: Factions
 ---
 # Level 1c: The Contested Corridors
 In the early days of the prison, these chambers were inmate residences. To combat their loneliness and horrid conditions in which they lived, the prisoners took to decorating these rooms with images of the surface world they left behind. They carved out a non-denominational chapel to serve their spiritual needs and cultivated a fungus garden in one of the natural caverns that pockmarked their underground home.

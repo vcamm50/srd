@@ -5,7 +5,6 @@ published: true
 has_children: true
 has_toc: false
 nav_order: 7
-permalink: /factions/
 ---
 Factions discovered during exploration will be recorded here including important information about their allies and enemies.
 

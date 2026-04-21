@@ -1,10 +1,9 @@
 ---
 layout: default
-title: "Hirelings"
+title: Hirelings
 published: true
-parent: "House Rules"
+parent: House Rules
 nav_order: 2
-permalink: /house-rules/hirelings/
 ---
 The odds are stacked against you when you leave the safety of [Canyon's Whisper](Locations/Canyon's%20Whisper.md). Hirelings are available and strongly recommended to boost your numbers. 
 

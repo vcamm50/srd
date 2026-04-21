@@ -1,10 +1,9 @@
 ---
 layout: default
-title: "Excursions and Sessions"
+title: Excursions and Sessions
 published: true
-parent: "House Rules"
+parent: House Rules
 nav_order: 4
-permalink: /house-rules/excursions-and-sessions/
 ---
 # Excursions
 - An excursion is not a single destination or a period of time. It can take days or months and have one destination or several. But it will always begin and end in [Canyon's Whisper](Locations/Canyon's%20Whisper.md), and that's when XP and collected treasure are divided.

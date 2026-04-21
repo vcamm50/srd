@@ -3,7 +3,6 @@ layout: default
 title: "Stonehell Prison"
 published: true
 parent: "Locations"
-permalink: /locations/stonehell-prison/
 aliases:
   - Stonehell
   - Stonehell's

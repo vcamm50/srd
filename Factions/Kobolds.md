@@ -1,9 +1,8 @@
 ---
 layout: default
-title: "Kobolds"
+title: Kobolds
 published: false
-parent: "Factions"
-permalink: /factions/kobolds/
+parent: Factions
 ---
 The kobolds of [Stonehell](Locations/Stonehell%20Prison.md) have the dubious distinction of being the first monstrous race to inhabit the prison. When the Sterling Potentate's troops discovered a kobold warren, his vizier suggested introducing the captured humanoids into the prison as one of his experiment variables. Upon their arrival, the kobolds did what they do best: grovel and adapt. They gained grudging acceptance by serving as custodians, slave labor, messengers, trap repairmen, and toadies to the more powerful prisoner power blocs. After the prison was liberated, these scaly humanoids stayed on in this capacity.
 

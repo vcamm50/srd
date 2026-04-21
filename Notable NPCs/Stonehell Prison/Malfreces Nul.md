@@ -1,9 +1,8 @@
 ---
 layout: default
-title: "Malfreces Nul"
+title: Malfreces Nul
 published: false
-parent: "Stonehell Prison"
-permalink: /notable-npcs/stonehell-prison/malfreces-nul/
+parent: Stonehell Prison
 ---
 Malfreces Nul is a gruesome human male. His overlong arms and legs, knobby knees, and pot belly give him a spider-like appearance, but it is his virulent strain of leprosy that makes him truly horrifying. His gray hair is falling out, open sores dot his face and hands, and his nose has rotted away completely. Malfreces dresses in homespun robes that cover his black chain mail hauberk. He‘s armed with a quarterstaff he uses as both a walking stick and a weapon. Although Malfreces lives as a hermit and seeks to avoid contact with other (living) beings, he is thoroughly evil and his desire for solitude has nothing to do with peaceful intentions.
 

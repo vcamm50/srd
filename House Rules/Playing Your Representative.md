@@ -1,10 +1,9 @@
 ---
 layout: default
-title: "Playing Your Representative"
+title: Playing Your Representative
 published: true
-parent: "House Rules"
+parent: House Rules
 nav_order: 3
-permalink: /house-rules/playing-your-representative/
 ---
 Your rep is responsible for managing the gold and treasure gained from agent's [excursions](Excursions%20and%20Sessions.md). The King has charged them with boosting the economy in their region so the wealth will be invested in [Canyon's Whisper](Locations/Canyon's%20Whisper.md), upgrading key buildings and armaments, as well as setting up outposts or even new settlements. 
 

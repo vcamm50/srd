@@ -4,7 +4,6 @@ title: "The History of Stonehell Prison"
 published: true
 parent: "History"
 nav_order: 1
-# permalink: /history/history-of-stonehell-prison/
 ---
 The Sterling Potentate possessed many qualities, but mercy and trust were not amongst them. The grandson of the man who first unified the squabbling city-states and wild tribes of the West, the Potentate ruled precariously over his subjects. Having neither the charisma nor fair heart which consolidated the rule of other kings, he relied on fear and an overzealous police force to keep the flames of rebellion from kindling. His subjects learned to dread the knock on their doors at midnight, an event that was invariably accompanied by the Potentate‘s secret police. Loose talk in a tavern could lead to the sudden arrest of entire families, leaving behind only rumors as to their fate and warnings that the police‘s spies were everywhere. Before long, the Potentate learned that, while his draconian methods kept his kingdom under control, these midnight arrests filled his prisons to capacity. As the years of his rule passed, his dungeons became overcrowded, his oubliettes filled, and his executioners weary from swinging their axes. A solution had to be found.
 

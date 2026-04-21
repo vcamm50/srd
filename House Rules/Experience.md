@@ -1,10 +1,9 @@
 ---
 layout: default
-title: "Experience"
+title: Experience
 published: true
-parent: "House Rules"
+parent: House Rules
 nav_order: 5
-permalink: /house-rules/experience/
 ---
 OSE rules say experience is gained by treasure and monster XP. This remains true in SRC, however there are additional details to note. 
 # Representatives
