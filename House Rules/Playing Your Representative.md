@@ -5,7 +5,7 @@ published: true
 parent: House Rules
 nav_order: 3
 ---
-Your rep is responsible for managing the gold and treasure gained from agent's [excursions](Excursions%20and%20Sessions.md). The King has charged them with boosting the economy in their region so the wealth will be invested in [Canyon's Whisper](Locations/Canyon's%20Whisper.md), upgrading key buildings and armaments, as well as setting up outposts or even new settlements. 
+Your rep is responsible for managing the gold and treasure gained from agent's [excursions](Excursions%20and%20Sessions.md). The King has charged them with boosting the economy in their region so the wealth will be invested in [Canyon's Whisper](../Locations/Canyon's%20Whisper.md), upgrading key buildings and armaments, as well as setting up outposts or even new settlements. 
 
 Even though your rep's wealth is tracked separately, it is the Committee's purpose to decide where to put it. The Committee meets when there are no active excursions and they decide by committee what will be upgraded and how to split the cost.
 

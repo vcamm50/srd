@@ -4,7 +4,7 @@ title: Kobolds
 published: false
 parent: Factions
 ---
-The kobolds of [Stonehell](Locations/Stonehell%20Prison.md) have the dubious distinction of being the first monstrous race to inhabit the prison. When the Sterling Potentate's troops discovered a kobold warren, his vizier suggested introducing the captured humanoids into the prison as one of his experiment variables. Upon their arrival, the kobolds did what they do best: grovel and adapt. They gained grudging acceptance by serving as custodians, slave labor, messengers, trap repairmen, and toadies to the more powerful prisoner power blocs. After the prison was liberated, these scaly humanoids stayed on in this capacity.
+The kobolds of [Stonehell](../Locations/Stonehell%20Prison.md) have the dubious distinction of being the first monstrous race to inhabit the prison. When the Sterling Potentate's troops discovered a kobold warren, his vizier suggested introducing the captured humanoids into the prison as one of his experiment variables. Upon their arrival, the kobolds did what they do best: grovel and adapt. They gained grudging acceptance by serving as custodians, slave labor, messengers, trap repairmen, and toadies to the more powerful prisoner power blocs. After the prison was liberated, these scaly humanoids stayed on in this capacity.
 
 The kobolds in Stonehell are used to being bossed around by others and adopt a servile attitude, fawning and whimpering whenever they encounter more powerful creatures. This obsequiousness not only applies to other monsters, but adventurers as well. When first encountered, kobolds have a -3 modifier to the initial roll on the Monster Reaction Table. They never attack first, but will defend themselves if met with violence.
 

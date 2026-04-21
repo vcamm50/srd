@@ -8,8 +8,8 @@ nav_order: 1
 Each player will begin with two characters, a Representative and an Agent. More are possible if hirelings are employed.
 # Representative
 - This is one of two main characters managed by each player.
-- The Representative is a direct member of the Stonehell Reclamation Committee and manages the money brought in by his/her Agents and hirelings, investments into [Canyon's Whisper](Locations/Canyon's%20Whisper.md) and surrounding areas, the hiring, firing, promotions and initial equipment of Agents and hirelings, and their team's goals and excursions.
-- The Representative works with the other Committee members to accomplish the King's task of reclaiming the [Stonehell Prison](Locations/Stonehell%20Prison.md) and the assigned territory around it.
+- The Representative is a direct member of the Stonehell Reclamation Committee and manages the money brought in by his/her Agents and hirelings, investments into [Canyon's Whisper](../Locations/Canyon's%20Whisper.md) and surrounding areas, the hiring, firing, promotions and initial equipment of Agents and hirelings, and their team's goals and excursions.
+- The Representative works with the other Committee members to accomplish the King's task of reclaiming the [Stonehell Prison](../Locations/Stonehell%20Prison.md) and the assigned territory around it.
 ### Creation
 The Representative is a Level 0 character. They do not collect XP in the traditional manor and they do not rise in level. XP will be used to track total collected wealth (see [Experience](Experience.md)).
 

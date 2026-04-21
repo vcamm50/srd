@@ -6,7 +6,7 @@ parent: House Rules
 nav_order: 4
 ---
 # Excursions
-- An excursion is not a single destination or a period of time. It can take days or months and have one destination or several. But it will always begin and end in [Canyon's Whisper](Locations/Canyon's%20Whisper.md), and that's when XP and collected treasure are divided.
+- An excursion is not a single destination or a period of time. It can take days or months and have one destination or several. But it will always begin and end in [Canyon's Whisper](../Locations/Canyon's%20Whisper.md), and that's when XP and collected treasure are divided.
 - An excursion can take place over several game sessions.
 - The time between excursions is when treasure is spent on new equipment, upgrades to the town are made, agents train their new levels, and hirelings can be hired, fired, or promoted. Side quests can also be found here.
 # Sessions

@@ -10,4 +10,4 @@ Its population consists of humans, elves, dwarves, and a handful of halfings, an
 
 While the town is large enough to provide for its residents, it can greatly benefit from investments into its shops, inns, temples, services and farms.
 
-It's history is [here](The%20Founding%20of%20Canyon's%20Whisper.md).
+It's history is [here](../History/The%20Founding%20of%20Canyon's%20Whisper.md).
