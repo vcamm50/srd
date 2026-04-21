@@ -3,7 +3,7 @@ layout: default
 title: Marrow-Suckers Tribe (Stonehell Level 3a)
 published: false
 parent: Factions
-permalink: /Factions/Marrow-Suckers Tribe/
+permalink: /factions/marrow-suckers-tribe/
 ---
 # Level 3a
 The ogre band is composed of former members of the Marrow-Suckers Tribe (see Level 4B p. 88) who, growing tired of Clanker‘s and Furragk‘s leadership, struck out on their own. Consisting entirely of male ogres, the band has created a bachelors‘ paradise for themselves filled with wrestling, working out, and drinking potent rum and turpentine cocktails. Their lack of potential mates, however, may eventually drive them to either raid the Marrow-Suckers for ogre-wives or to rejoin that tribe after the thrill of a bachelor‘s life wears off.

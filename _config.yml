@@ -50,15 +50,12 @@ search:
 #plugins:
 #  - jekyll-relative-links
 
-#exclude:
-#  - .obsidian
-#  - .gitignore
-#  - _config.yml
-#  - README.md
-#  - Notable NPCs/Stonehell
-#  - Notable NPCs/Stonehell/Malfreces Nul.md
-#  - Notable NPCs/Stonehell/Snorri Broadshoulders.md
+exclude:
+  - .obsidian
+  - .gitignore
+  - _config.yml
+  - README.md
 
-#kramdown:
-#  input: GFM        # GitHub Flavored Markdown (enables tables, task lists)
-#  hard_wrap: false  # Matches Obsidian's default line-breaking behavior
+kramdown:
+  input: GFM        # GitHub Flavored Markdown (enables tables, task lists)
+  hard_wrap: false  # Matches Obsidian's default line-breaking behavior
