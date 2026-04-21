@@ -19,9 +19,6 @@ back_to_top_label: "Back to top"
 
 nav_enabled: true
 
-plugins:
-  - jekyll-relative-links
-
 # Site search
 search_enabled: true
 search:
