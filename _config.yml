@@ -8,6 +8,13 @@ aux_links:
   "Foundry VTT": https://thebadasses.app
 aux_links_new_tab: true
 
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
 # Site setup
 logo: "/assets/src-icon.png"
 favicon_ico: "/assets/favicon.ico"
@@ -46,3 +53,6 @@ search:
   button: false
   # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
   focus_shortcut_key: 'k'
+
+kramdown:
+  auto_ids: true
