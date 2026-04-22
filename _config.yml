@@ -1,8 +1,8 @@
 title: "The Stonehell Reclamation Committee"
 description: "Campaign notes, player information and session reports."
 theme: just-the-docs
-baseurl: "vcamm50.github.io/srd" # Leave this empty if your site is username.github.io
-url: ""
+baseurl: "/srd" # Leave this empty if your site is username.github.io
+url: "https://vcamm50.github.io"
 
 aux_links:
   "Foundry VTT": https://thebadasses.app
