@@ -3,7 +3,7 @@ layout: default
 title: Snorri Broadshoulders
 published: false
 parent: Stonehell Prison
-grandparent: Notable NPCs
+grand_parent: Notable NPCs
 ---
 A dwarven architect named Snorri Broadshoulders has recently arrived at [Stonehell](../../Locations/Stonehell%20Prison.md) to study and catalogue the dwarven stonework found within the dungeon. 
 
