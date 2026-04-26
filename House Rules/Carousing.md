@@ -3,7 +3,7 @@ layout: default
 title: Carousing
 published: true
 parent: House Rules
-nav_order: 7
+nav_order: 6
 ---
 Carousing is a way to utilize your downtime and potentially increase your agent's XP. These rules are adapted from [Jeff's Gameblog](https://jrients.blogspot.com/2008/12/party-like-its-999.html) with some tweaks from [Skalchemist's Stonehell House Rules](https://skalchemist.cloud/mediawiki/index.php/Stonehell_House_Rules#Carousing) and are subject to change as we use them and I tweak them for balance.
 

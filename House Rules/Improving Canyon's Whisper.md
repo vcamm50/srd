@@ -3,7 +3,7 @@ layout: default
 title: Improving Canyon's Whisper
 published: true
 parent: House Rules
-nav_order: 6
+nav_order: 7
 ---
 The King has charged the reclamation committees with rebuilding the damage done by the Sterling Potentate and building up key areas of his land. The Stonehell Reclamation Committee's task is to build up [Canyon's Whisper](../Locations/Canyon's%20Whisper.md) as a key location in the area as well as bringing safety to the surrounding areas. Soon after the arrival of the committee, people will be sent to assist in the effort. Besides the average settler and explorer, blacksmiths, apothecaries, carpenters, loggers, and other essential infrastructure workers will arrive to turn the small village to a bustling town or even city. Part of the Committee's job is to direct those worker's efforts using the gold retrieved by the agent's expeditions.
 

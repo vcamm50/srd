@@ -3,7 +3,7 @@ layout: default
 title: Agent Death
 published: true
 parent: House Rules
-nav_order: 7
+nav_order: 8
 ---
 Should an agent die or otherwise be lost, their XP gained from defeating monsters are gone, that knowledge is non-transferable and went with them to the afterlife. However, XP gained from treasure will be retained from agent to agent so you won't have to start from 0.
 
