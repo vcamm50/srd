@@ -3,5 +3,6 @@
   "useMarkdownLinks": true,
   "showInlineTitle": true,
   "newLinkFormat": "relative",
-  "useTab": false
+  "useTab": false,
+  "tabSize": 4
 }

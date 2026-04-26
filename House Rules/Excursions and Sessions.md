@@ -17,7 +17,7 @@ nav_order: 4
     - Ending a session in an unsafe location will result in possible encounters, negative effects, or other undesired problems, i.e., I have a roll table and I intend to use it.
 - There may be encounters when traveling to and from any destination. The Kingdom is a dangerous place. Be mindful of this towards the end of a session so we don't run past.
 - The field team is expected to be properly equipped for each outing. If an item isn't in inventory, the team doesn't have it.
-
+ 
 ## Agents and Excursions
 
 - An agent is the Committee's representative in the field. If the agent does not return to Canyon's Whisper, the representative's share of the excursion's treasure is lost as per the bylaws of the Committee. 

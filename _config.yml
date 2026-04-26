@@ -16,11 +16,12 @@ relative_links:
   enabled: true
   collections: true
 
-# Site setup
 logo: "/assets/src-icon.png"
 favicon_ico: "/assets/favicon.ico"
 
 color_scheme: dark
+
+markdown: GFM
 
 back_to_top: true
 back_to_top_label: "Back to top"
