@@ -6,11 +6,11 @@ has_children: true
 has_toc: false
 nav_order: 7
 ---
-Factions discovered during exploration will be recorded here including important information about their allies and enemies.
+Factions discovered during exploration will be recorded here and will include any important information about their allies and enemies that you've discovered.
 
-For the purposes of this campaign I will define factions as any loosely related group that share a common goal. Some examples are a battalion of troops, a thieves guild, a rival adventuring party, and even a group of kobolds housed in a cave trying to survive. 
+For the purposes of this campaign I will define factions as any loosely related group that share a common goal. For example, a battalion of troops, a thieves guild, a rival adventuring party, and a group of kobolds housed in a cave just trying to survive. 
 
-Stonehell is a living place with lots of life forms, both monsters and intelligent creatures. Not all of them are hostile and understand the risks of attacking everything it encounters. It's up to the agents to learn their motivations, if any, and use them to their advantage. Of course, some creatures are just assholes...
+Stonehell is a living place with lots of life forms, both monsters and intelligent creatures. Not all of them are hostile and understand the risks of attacking everything they encounter. It's up to the agents to learn their motivations, if any, and use them to their advantage. Of course, some creatures are just assholes...
 
 The table below will summarize your discoveries to date. Follow the links for more details.
 
