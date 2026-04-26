@@ -5,4 +5,4 @@ published: true
 parent: Canyon's Whisper
 grand_parent: Notable NPCs
 ---
-Sam is the proprietor of [Canyon's Whisper's](../../Locations/Canyon's%20Whisper.md) only tavern, The Neighing Asshole.
+Sam Malone is the proprietor of [Canyon's Whisper's](../../Locations/Canyon's%20Whisper.md) only tavern (currently), The Braying Ass.
