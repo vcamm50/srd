@@ -31,23 +31,23 @@ The following is the list of services with the existing ones first.
 ## Canyon's Whisper
 The town itself. Upgrading the town adds housing of new citizens, attracts essential workers, and provides space for new services to be added, like the magic service.
 - Level 0
-	- Current town. 
-	- Population 100
-	- Small area for shops, not much room for expansion.
-	- Level 1 retainers available for hire.
+    - Current town. 
+    - Population 100
+    - Small area for shops, not much room for expansion.
+    - Level 1 retainers available for hire.
 - Level 1
-	- Land expansion to permit an additional farm and housing of new arrivals.
-	- Population 250
-	- Essential workers arrive. Blacksmiths, carpenters, loggers, etc.
-	- Level 2 and below retainers available for hire.
+    - Land expansion to permit an additional farm and housing of new arrivals.
+    - Population 250
+    - Essential workers arrive. Blacksmiths, carpenters, loggers, etc.
+    - Level 2 and below retainers available for hire.
 - Level 2
-	- Land expansion to permit an additional farm and housing of new arrivals.
-	- Market size is increased.
-	- Population 500
-	- Additional essential workers arrive. More hands means faster progress.
-	- Level 3 and below retainers available for hire.
+    - Land expansion to permit an additional farm and housing of new arrivals.
+    - Market size is increased.
+    - Population 500
+    - Additional essential workers arrive. More hands means faster progress.
+    - Level 3 and below retainers available for hire.
 - Level 3
-	- Further land expansion, farms, housing.
-	- A bank is built. **Maybe we'll set up interest rate or treasure stored there. Or maybe we'll make it a separate service.
-	- Population 1000
-	- Level 4 and below retainers available for hire.
+    - Further land expansion, farms, housing.
+    - A bank is built. **Maybe we'll set up interest rate or treasure stored there. Or maybe we'll make it a separate service.
+    - Population 1000
+    - Level 4 and below retainers available for hire.

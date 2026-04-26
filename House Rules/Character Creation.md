@@ -32,10 +32,10 @@ See the section for [Playing Your Representative](Playing%20Your%20Representativ
 - They are the ranking official in the field, manages any [Hirelings](Hirelings.md), and works to execute the Committee's and King's objectives.
 ## Creation
 - No stats under a 7. The Committee, and especially the King, hires only able-bodied agents. 
-	- We can discuss the best route for this. Either 4d6 and drop a die, assign 16, 15, 14, 13, 12 & 10 as you please, or some other way.
+    - We can discuss the best route for this. Either 4d6 and drop a die, assign 16, 15, 14, 13, 12 & 10 as you please, or some other way.
 - Hit dice
-	- Start all level 1 characters at max HP + Con bonus. 
-	- All levels past 1, use the d2 method. Example, if a thief's HD is 1d6 then roll 3d2 instead. It ensures the Agent gets half their max HP at least.
+    - Start all level 1 characters at max HP + Con bonus. 
+    - All levels past 1, use the d2 method. Example, if a thief's HD is 1d6 then roll 3d2 instead. It ensures the Agent gets half their max HP at least.
 - Agents start with no money or equipment. See [Equipment](#Equipment) below.
 - Follow the usual OSE character creation rules.
 # Hirelings
