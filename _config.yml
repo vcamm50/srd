@@ -5,7 +5,7 @@ baseurl: "/srd" # Leave this empty if your site is username.github.io
 url: "https://vcamm50.github.io"
 
 aux_links:
-  "<img src='/srd/assets/foundryvtt-logo.png' style='height:24px; vertical-align:middle; margin-right:4px;'> SRD on Foundry VTT":
+  "<img src='/srd/assets/foundryvtt-logo.png' style='height:32px; vertical-align:middle; margin-right:4px;'> SRD on Foundry VTT":
     - https://thebadasses.app
 aux_links_new_tab: true
 
