@@ -17,6 +17,7 @@ Here's how they will be played.
 - Hirelings gain experience and levels per regular OSE rules. This means they gain one half share of XP from monster kills and returned treasure.
 - Promoting a hireling to agent is the representative's job and can only be done in town. This means the excursion that resulted in an agent's death will be the last excursion the hireling gets their half share. Full share starts on the next excursion. 
 # Hireling Wage Chart
+
 | Class Level | Weekly Wage (gp) | Monthly Wage (gp) |
 | ----------- | ---------------- | ----------------- |
 |           0 |                4 |                12 |
