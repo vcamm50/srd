@@ -28,7 +28,7 @@ Reps can devote their money into a single service and control its growth as they
 Everything starts at level 0 and progresses as a specific character class. Services cannot progress beyond Canyon Whisper's level as it represents the development of the land and population. Think of it like putting a Super Walmart in a town of 100 people.
 
 The following is the list of services with the existing ones first.
-### Canyon's Whisper
+## Canyon's Whisper
 The town itself. Upgrading the town adds housing of new citizens, attracts essential workers, and provides space for new services to be added, like the magic service.
 - Level 0
 	- Current town. 

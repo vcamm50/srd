@@ -10,7 +10,7 @@ Each player will begin with two characters, a Representative and an Agent. More 
 - This is one of two main characters managed by each player.
 - The Representative is a direct member of the Stonehell Reclamation Committee and manages the money brought in by his/her Agents and hirelings, investments into [Canyon's Whisper](../Locations/Canyon's%20Whisper.md) and surrounding areas, the hiring, firing, promotions and initial equipment of Agents and hirelings, and their team's goals and excursions.
 - The Representative works with the other Committee members to accomplish the King's task of reclaiming the [Stonehell Prison](../Locations/Stonehell%20Prison.md) and the assigned territory around it.
-### Creation
+## Creation
 The Representative is a Level 0 character. They do not collect XP in the traditional manor and they do not rise in level. XP will be used to track total collected wealth (see [Experience](Experience.md)).
 
 To create your representative, fill out the sheet as follows:
@@ -30,7 +30,7 @@ See the section for [Playing Your Representative](Playing%20Your%20Representativ
 - The is the other main character managed by each player.
 - The agent is the adventurer that executes the missions set by their Representative and the Committee.
 - They are the ranking official in the field, manages any [Hirelings](Hirelings.md), and works to execute the Committee's and King's objectives.
-### Creation
+## Creation
 - No stats under a 7. The Committee, and especially the King, hires only able-bodied agents. 
 	- We can discuss the best route for this. Either 4d6 and drop a die, assign 16, 15, 14, 13, 12 & 10 as you please, or some other way.
 - Hit dice
