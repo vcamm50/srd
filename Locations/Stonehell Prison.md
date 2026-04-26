@@ -13,4 +13,4 @@ The route skirts past a dank marsh from out of which the foothills rise. There a
 
 Across the mouth of the canyon stands an old curtain wall and gatehouse. These fortifications once barred entrance to the canyon, but the curtain wall has crumbled in places, leaving large gaps that allow easy access into the canyon beyond. The gatehouse‘s doors lay rotting on the ground before it and its rusty portcullises are as gapped as a codger‘s smile. Those opting for a more direct route can enter the canyon through the gatehouse‘s central passage.
 
-It's history is [here](../History/The%20History%20of%20Stonehell%20Prison.md)
+It's history is [here](../History/History.md#Stonehell%20Dungeon).
