@@ -9,7 +9,7 @@ nav_order: 4
 - An excursion is not a single destination or a period of time. It can take days or months and have one destination or several. But it will always begin and end in [Canyon's Whisper](../Locations/Canyon's%20Whisper.md), and that's when XP and collected treasure are divided.
 - An excursion can take place over several game sessions.
 - The time between excursions is when treasure is spent on new equipment, upgrades to the town are made, agents train their new levels, and hirelings can be hired, fired, or promoted. Side quests can also be found here.
-
+ 
 # Sessions
 - A session is exactly that: a game session. A session should start and end in a safe location.
     - Ending a session in an unsafe location will result in possible encounters, negative effects, or other undesired problems, i.e., I have a roll table and I intend to use it.
@@ -21,7 +21,7 @@ nav_order: 4
 - A successful excursion for a representative is when their agent returns to Canyon's Whisper alive. When this happens, money and XP are divided among the survivors and the representative as noted in the OSE rulebooks and the [Experience](Experience.md) section.
     - Should an agent die but the body is returned to Canyon's Whisper and then resurrected, the agent (and their representative) still loses their share of the treasure but the agent retains any XP from the excursion. 
     - If an agent dies but is resurrected before returning to Canyon's Whisper, the agent has returned alive and retains their share of the treasure and XP.
-
+ 
 # Adventuring Beyond Stonehell
 While Stonehell is the focus of the Committee, it understands that wealth and development can be found elsewhere in their territory. The team can check the job board for opportunities to help those in need, travel to other towns or cities, or hit the open road and simply explore.
 
