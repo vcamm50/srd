@@ -18,16 +18,19 @@ The town will be split up into sections and level like a character class. Here's
 - Agreements: The denizens of Canyon's Whisper are a busy lot and may barter for work. For example, the carpenter is willing to put 500 XP worth of work into the market if you find his dead wife's locket in that dungeon over there.
 
 Feel free to get creative with other methods too. We can talk about it and figure something out.
+
 # Investments
 Investing in a town service does not have to be a committee activity. You may feel it's better take on a service like an owner and make investments as they see fit without needing to consult a partner or the committee. However, having partners or the entire committee contributing to a service will split the cost of leveling it. It is up to the players to decide how to handle it. There's no wrong way and there's plenty of services to do both.
 
 Reps are encouraged to make their investments "their own." Feel free to design your upgrades how you see fit. For example, expand the market with additional shops, put an addition on the Inn for more rooms or a bigger kitchen, build a class wizard tower for the magic services. While not necessary, doing so will add flavor to the town and I may use the designs in some way, like incorporating the Inn's Lady's Night into the Carousing rules.
 
 Reps can devote their money into a single service and control its growth as they see fit without needing to involve other representatives. Some or all of the reps can join together and be shareholders of a service. 
+
 # Services
 Everything starts at level 0 and progresses as a specific character class. Services cannot progress beyond Canyon Whisper's level as it represents the development of the land and population. Think of it like putting a Super Walmart in a town of 100 people.
 
 The following is the list of services with the existing ones first.
+
 ## Canyon's Whisper
 The town itself. Upgrading the town adds housing of new citizens, attracts essential workers, and provides space for new services to be added, like the magic service.
 - Level 0
