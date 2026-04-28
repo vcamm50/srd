@@ -35,39 +35,68 @@ The following is the list of services with the existing ones first.
 The town itself. Upgrading the town adds housing of new citizens, attracts essential workers, and provides space for new services to be added, like the magic service.
 
 Canyon's Whisper levels every 1000xp.
-- Level 0
+
+- Level 0 - Hamlet
     - Current town. 
     - Population 100
     - Small area for shops, not much room for expansion.
     - Level 1 retainers available for hire.
-- Level 1
+- Level 1 - Small Village
     - Land expansion to permit an additional farm and housing of new arrivals.
     - Population 250
     - Essential workers arrive. Blacksmiths, carpenters, loggers, etc.
     - Level 2 and below retainers available for hire.
-- Level 2
+- Level 2 - Medium Village
     - Land expansion to permit an additional farm and housing of new arrivals.
     - Market size is increased.
     - Population 500
     - Additional essential workers arrive. More hands means faster progress.
     - Level 3 and below retainers available for hire.
-- Level 3
+- Level 3 - Large Village
     - Further land expansion, farms, housing.
+    - A proper market district is created at the center of town to attract merchants with more variety.
     - A bank is built. **Maybe we'll set up interest rate or treasure stored there. Or maybe we'll make it a separate service.
     - Population 1000
     - Level 4 and below retainers available for hire.
-- Lvl 4 - Level 5 or less retainers are attracted (3d4 new a month)
-- Lvl 5 - Level 6 or less retainers are attracted (3d4 new a month)
-- Lvl 6 - Level 7 or less retainers are attracted (3d4 new a month)
-- Lvl 7 - Level 8 or less retainers are attracted (3d4 new a month)
+- Level 4 - Small town
+    - Housing is built to accommodate the population such as apartment-like structures.
+    - Population 2000
+    - A government is established to run things. The type depends on other services and influences.
+    - The town provides infrastructure services such as street cleaning, building maintenance, and garbage collection which creates jobs and attracts more people.
+    - A Town Hall is built to host town meetings, events and faires. 
+    - A sewer and aqueduct system begins construction to support the growing population. 
+    - Guilds begin to appear. A carpenter guild, infrastructure guild, some others you may or may not know about.
+    - Level 5 and below retainers available for hire.
+- Level 5 - Medium town
+    - Another farm is built to grow grapes and other wine-making fruits.
+    - Construction continues at steady pace, drawing more people seeking work.
+    - Population 4000
+    - The sewer and aqueduct system is completed. Retrofitting existing houses to utilize them begins. 
+    - Breweries and a winery is built to provide the taverns with more variety. Good taverns mean higher morale.
+    - A wizard of renown moves in and occasional offers his help for a fee (the magical service level will override this).
+    - Level 6 and below retainers available for hire.
+- Level 6 - Small city
+    - Canyon's Whisper gains a reputation in the kingdom. Depending on the levels of other services, the reputation can be a fast growing settlement with lots of work available and the hope of a better life or could be a rogues paradise where anarchy reigns and the consequences non-existent. 
+    - Population 8000
+    - All new and most existing homes have sewer and water available.
+    - A theater is built for local and traveling performances.
+    - A small barracks is built where military troops are trained and stationed (the military service level will override this). 
+    - Level 7 and below retainers available for hire.
+- Level 7 - Large city
+    - Canyon's Whisper is a proper city with plenty of work, a sizable market district with just about anything available, indoor plumbing (sorta), guild services, an arts scene etc. If the committee focused the town's growth on a particular craft (cuisine, performance arts, history, etc.), the reputation is out there but other service levels may influence the reputation as good or bad.
+    - Population > 16,000
+    - Districts appear:
+        - The market district feature cozy taverns, local cuisine, and stores selling anything from the regular to the fantastic.
+        - The theater becomes the center of the arts district including an art gallery, street performers, fashion, etc.
+        - Canyon's Whisper gets a few tourist spots with Stonehell themes. Kinda like Salem, Massachusetts and the witch trials.
  
 ## Inn Services
 Lodgings, entertainment, food. _Levels as Bard._
-- Lvl 0 - no services of note
-- Lvl 1 - carousing now possible, 1d6x50 gp/xp carousing limit
-- Lvl 2 - carousing, up to 2d6x50 gp/xp
-- Lvl 3 - carousing, up to 3d6x50 gp/xp
-- Lvl 4 - carousing, up to 4d6x50 gp/xp
+- Level 0 - no services of note. Small place with a tavern, a few tables, a couple of dirty, unkept rooms. Food is bland and only occasionally poisons someone. The beer is technically beer.
+- Level 1 - [Carousing](Carousing.md) now possible. Space is enlarged to accommodate the growing population. More tables and a wench to serve them, a couple more rooms are available and they're cleaned more often, and a second menu item. The beer is palatable.
+- Level 2 - A proper cook is hired and experiments with locally grown herbs. Food is noticeably better, more options to choose from. The tavern is usually crowded and sometimes overfull. A couple of whores hang about. A liquor is now available that resembles whiskey.
+- Lvl 3 - A new Inn is built next to the new market area in town. Large bar, tavern, plenty of rooms that are kept clean by a dedicated cleaning lady, even the whores are prettier. Room for growth. The cook is no chef but the food is about as good as it can get without one. 
+- Lvl 4 - The Inn is a bustling place, the center of entertainment, odd jobs and the like. The cook levels up and learns new recipes. A brewmaster is hired to develop more beer and new flavors. He introduces carbonation by a secret magical process he learned via mysterious means. No one cares, it's damn tasty.
 - Lvl 5 - carousing, up to 5d6x50 gp/xp
 - Lvl 6 - carousing, up to 6d6x50 gp/xp
 - Lvl 7 - carousing, up to 7d6x50 gp/xp
