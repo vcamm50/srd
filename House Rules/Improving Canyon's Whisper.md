@@ -32,7 +32,7 @@ Everything starts at level 0 and progresses as a specific character class. Servi
 The following is the list of services with the existing ones first.
 
 ## Canyon's Whisper
-The town itself. Upgrading the town adds housing of new citizens, attracts essential workers, and provides space for new services to be added, like the magic service.
+The town itself. Upgrading the town adds housing of new citizens, attracts essential workers, and provides space for other service' upgrades.
 
 Canyon's Whisper levels every 1000xp.
 
@@ -64,7 +64,9 @@ Canyon's Whisper levels every 1000xp.
     - A government is established to run things. The type depends on other services and influences.
     - The town provides infrastructure services such as street cleaning, building maintenance, and garbage collection which creates jobs and attracts more people.
     - A Town Hall is built to host town meetings, events and faires. 
+    - A small one-room schoolhouse is built for young children.
     - A sewer and aqueduct system begins construction to support the growing population. 
+    - A ranking cleric of a random deity moves to town. The services he offers depends on the level of the temple services.
     - Guilds begin to appear. A carpenter guild, infrastructure guild, some others you may or may not know about.
     - Level 5 and below retainers available for hire.
 - Level 5 - Medium town
@@ -88,6 +90,7 @@ Canyon's Whisper levels every 1000xp.
     - Districts appear:
         - The market district feature cozy taverns, local cuisine, and stores selling anything from the regular to the fantastic.
         - The theater becomes the center of the arts district including an art gallery, street performers, fashion, etc.
+        - The library district will feature a general library and other magic establishments achieved by the magic services level.
         - Canyon's Whisper gets a few tourist spots with Stonehell themes. Kinda like Salem, Massachusetts and the witch trials.
  
 ## Inn Services
