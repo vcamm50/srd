@@ -7,4 +7,4 @@ has_children: true
 has_toc: false
 nav_order: 1
 ---
-All discovered NPCs in Canyon's Whisper will appear here.
+All discovered NPCs in Canyon's Whisper will appear in this section.

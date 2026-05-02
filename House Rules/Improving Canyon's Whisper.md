@@ -5,7 +5,7 @@ published: true
 parent: House Rules
 nav_order: 7
 ---
-The King has charged the reclamation committees with rebuilding the damage done by the Sterling Potentate and building up key areas of his land. The Stonehell Reclamation Committee's task is to build up [Canyon's Whisper](../Locations/Canyon's%20Whisper.md) as a key location in the area as well as bringing safety to the surrounding areas. Soon after the arrival of the committee, people will be sent to assist in the effort. Besides the average settler and explorer, blacksmiths, apothecaries, carpenters, loggers, and other essential infrastructure workers will arrive to turn the small village to a bustling town or even city. Part of the Committee's job is to direct those worker's efforts using the gold retrieved by the agent's expeditions.
+The King has charged the reclamation committees with rebuilding the damage done by the Sterling Potentate and building up key areas of his land. The Stonehell Reclamation Committee's task is to build up [Canyon's Whisper](../Locations/Canyon's%20Whisper.md) as a key location in the area as well as bringing safety to the surrounding areas. Soon after the arrival of the committee, people will be sent to assist in the effort. Besides the average settler and explorer, blacksmiths, apothecaries, carpenters, loggers, and other essential infrastructure workers will arrive to turn the small village to a bustling town or even city. Part of the Committee's job is to direct those worker's efforts using the gold retrieved by the Agent's expeditions.
 
 These rules are based on [Skalchemist's rules](https://skalchemist.cloud/mediawiki/index.php/Stonehell_House_Rules#Town_Services_Improvement) for his Stonehell campaign. These are a work in progress as we tweak and adjust for balance.
  
@@ -24,7 +24,7 @@ Investing in a town service does not have to be a committee activity. You may fe
 
 Reps are encouraged to make their investments "their own." Feel free to design your upgrades how you see fit. For example, expand the market with additional shops, put an addition on the Inn for more rooms or a bigger kitchen, build a class wizard tower for the magic services. While not necessary, doing so will add flavor to the town and I may use the designs in some way, like incorporating the Inn's Lady's Night into the Carousing rules.
 
-Reps can devote their money into a single service and control its growth as they see fit without needing to involve other representatives. Some or all of the reps can join together and be shareholders of a service. As an example, the party may all decide to split the investments in the inn services and decide its upgrades together as a committee, while the cleric also devotes some gp into the temple services separately to ensure their influence in its growth.
+Reps can devote their money into a single service and control its growth as they see fit without needing to involve other Representatives. Some or all of the reps can join together and be shareholders of a service. As an example, the party may all decide to split the investments in the inn services and decide its upgrades together as a committee, while the cleric also devotes some gp into the temple services separately to ensure their influence in its growth.
 
 # Services
 Everything starts at level 0 and progresses as a specific character class. Services cannot progress beyond Canyon Whisper's level as it represents the development of the land and population. Think of it like putting a Super Walmart in a town of 100 people.

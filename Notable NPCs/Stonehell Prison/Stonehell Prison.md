@@ -7,4 +7,4 @@ has_children: true
 has_toc: false
 nav_order: 2
 ---
-Select an NPC from the sidebar to view their details.
+All discovered NPCs in Stonehell will appear in this section including valuable information that may be helpful later.

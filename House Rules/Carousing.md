@@ -5,13 +5,13 @@ published: true
 parent: House Rules
 nav_order: 6
 ---
-Carousing is a way to utilize your downtime and potentially increase your agent's XP. These rules are adapted from [Jeff's Gameblog](https://jrients.blogspot.com/2008/12/party-like-its-999.html) with some tweaks from [Skalchemist's Stonehell House Rules](https://skalchemist.cloud/mediawiki/index.php/Stonehell_House_Rules#Carousing) and are subject to change as we use them and I tweak them for balance.
+Carousing is a way to utilize your downtime and potentially increase your Agent's XP. These rules are adapted from [Jeff's Gameblog](https://jrients.blogspot.com/2008/12/party-like-its-999.html) with some tweaks from [Skalchemist's Stonehell House Rules](https://skalchemist.cloud/mediawiki/index.php/Stonehell_House_Rules#Carousing) and are subject to change as we use them and I tweak them for balance.
 
 Between excursions, players can opt to hit the town and have some fun. This is a little expensive, costing Xd6 * 50gp where X = the level of the inn. Then the fun begins. After some time passes the carousers roll to see what kind of trouble they got into.
 
-First, roll a save vs poison check. A successful roll means the agent managed to have some good, clean fun. Or, they weren't caught. No consequences occur and the agent collects the amount of XP spent in gp.
+First, roll a save vs poison check. A successful roll means the Agent managed to have some good, clean fun. Or, they weren't caught. No consequences occur and the Agent collects the amount of XP spent in gp.
 
-Failing the saving throw means the agent got into some trouble. Roll a d20 to see what happens.
+Failing the saving throw means the Agent got into some trouble. Roll a d20 to see what happens.
 
 | 1d20 | Event                                                                                                                                                                                                                                                                                                                                                         |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

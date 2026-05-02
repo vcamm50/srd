@@ -7,4 +7,4 @@ nav_order: 100
 ---
 I'd like to invite several more people to join the group so we consistently have enough people to play. Among the group, I'd like 3 or 4 to be the core players that appear every week with the remaining players attend when time allows.
 
-The core players will be using agents and the hirelings paid for by their Representative. When a floating player attends a session, they will use any retainer currently in the employ of the Representatives.
+The core players will be using Agents and the Hirelings paid for by their Representative. When a floating player attends a session, they will use any Hireling currently in the employ of the Representatives.

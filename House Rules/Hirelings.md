@@ -8,14 +8,14 @@ nav_order: 2
 The odds are stacked against you when you leave the safety of [Canyon's Whisper](../Locations/Canyon's%20Whisper.md). Hirelings are available and strongly recommended to boost your numbers. 
 
 Here's how they will be played.
-- Hireling's base rate of pay is based on their level but may fluctuate based on skills and abilities, especially at higher levels. See the [[#Hireling Wage Chart]] below as a starting point.
+- A Hireling's base rate of pay is based on their level but may fluctuate based on skills and abilities, especially at higher levels. See the [Hireling Wage Chart](#Hireling%20Wage%20Chart) below as a starting point.
 - Pay is due up front and does not include excursion supplies such as food and water, shelter, etc.
-- The market for hirelings changes as travelers come and go, and as townspeople come of age or need a quick buck. Available options will be randomly generated and will change from excursion to excursion. I may even throw in a ringer from time to time.
+- The market for Hirelings changes as travelers come and go, and as townspeople come of age or need a quick buck. Available options will be randomly generated and will change from excursion to excursion. I may even throw in a ringer from time to time.
 - Hirelings are people with feelings, and they are proud. They will never work for someone equal or lower in level, per OSE rules. Should this situation arise, best they don't find out or their loyalty will be tested.
-- Roleplaying: hirelings don't provide advice, hints, or have any input on any topic. They're not paid for their opinions, only their arms in battle. Should their input be needed, I will roleplay them as NPCs. Otherwise, the agents control their movement, exploration tasks, and tactics in battle.
-- How you treat your hireling matters! Using them as expendable forces will test their loyalty and morale. When they lose confidence in their agent they will become less willing to do their job resulting in penalties when it counts. In addition, their experience reflects on the agent and representative reputation which will make it harder to hire helpers in the future. 
+- Roleplaying: Hirelings don't provide advice, hints, or have any input on any topic. They're not paid for their opinions, only their arms in battle. Should their input be needed, I will roleplay them as NPCs. Otherwise, the Agents control their movement, exploration tasks, and tactics in battle.
+- How you treat your Hireling matters! Using them as expendable forces will test their loyalty and morale. When they lose confidence in their Agent, they will become less willing to do their job resulting in penalties when it counts. In addition, their experience reflects on the Agent and Representative reputation which will make it harder to hire helpers in the future. 
 - Hirelings gain experience and levels per regular OSE rules. This means they gain one half share of XP from monster kills and returned treasure.
-- Promoting a hireling to agent is the representative's job and can only be done in town. This means the excursion that resulted in an agent's death will be the last excursion the hireling gets their half share. Full share starts on the next excursion. 
+- Promoting a Hireling to Agent is the Representative's job and can only be done in town. This means the excursion that resulted in an Agent's death will be the last excursion the Hireling gets their half share. Full share starts on the next excursion. 
 
 # Hireling Wage Chart
 
