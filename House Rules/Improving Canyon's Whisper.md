@@ -7,7 +7,7 @@ nav_order: 7
 ---
 The King has charged the reclamation committees with rebuilding the damage done by the Sterling Potentate and building up key areas of his land. The Stonehell Reclamation Committee's task is to build up [Canyon's Whisper](../Locations/Canyon's%20Whisper.md) as a key location in the area as well as bringing safety to the surrounding areas. Soon after the arrival of the committee, people will be sent to assist in the effort. Besides the average settler and explorer, blacksmiths, apothecaries, carpenters, loggers, and other essential infrastructure workers will arrive to turn the small village to a bustling town or even city. Part of the Committee's job is to direct those worker's efforts using the gold retrieved by the Agent's expeditions.
 
-These rules are based on [Skalchemist's rules](https://skalchemist.cloud/mediawiki/index.php/Stonehell_House_Rules#Town_Services_Improvement) for his Stonehell campaign. These are a work in progress as we tweak and adjust for balance.
+These rules are based on [Skalchemist's rules](https://skalchemist.cloud/mediawiki/index.php/Stonehell_House_Rules#Town_Services_Improvement) for his Stonehell campaign. These are a work in progress and I'll tweak and adjust for balance.
  
 # Leveling Up
 Investing in the establishments bolsters Canyon's Whisper as well as benefits its citizens. For example, Canyon's Whisper can be upgraded with better fortifications, the market will provide more equipment of better quality, The Inn unlocks [Carousing](Carousing.md) for potential XP bumps, and magic and divine services can be utilized for a myriad of purposes.
@@ -44,7 +44,7 @@ Canyon's Whisper levels every 1000xp.
 - Level 1 - Small Village
     - Land expansion to permit an additional farm and housing of new arrivals.
     - Population 250 permanent residents
-    - Essential workers arrive. Blacksmiths, carpenters, loggers, etc.
+    - Essential workers arrive. Blacksmiths, carpenters, loggers, etc. to support town expansion.
     - Level 2 and below retainers available for hire.
 - Level 2 - Medium Village
     - Land expansion to permit an additional farm and housing of new arrivals.
@@ -66,7 +66,6 @@ Canyon's Whisper levels every 1000xp.
     - A Town Hall is built to host town meetings, events and faires. 
     - A small one-room schoolhouse is built for young children.
     - A sewer and aqueduct system begins construction to support the growing population. 
-    - A ranking cleric of a random deity moves to town. The services he offers depends on the level of the temple services.
     - Guilds begin to appear. A carpenter guild, infrastructure guild, some others you may or may not know about.
     - Level 5 and below retainers available for hire.
 - Level 5 - Medium town
@@ -75,7 +74,7 @@ Canyon's Whisper levels every 1000xp.
     - Population 4000 permanent residents
     - The sewer and aqueduct system is completed. Retrofitting existing houses to utilize them begins. 
     - Breweries and a winery is built to provide the taverns with more variety. Good taverns mean higher morale.
-    - A wizard of renown moves in and occasional offers his help for a fee (the magical service level will override this).
+    - A wizard of renown moves in and occasional offers his help for a ridiculous fee (the magical service level will override this).
     - Level 6 and below retainers available for hire.
 - Level 6 - Small city
     - Canyon's Whisper gains a reputation in the kingdom. Depending on the levels of other services, the reputation can be a fast growing settlement with lots of work available and the hope of a better life or could be a rogues paradise where anarchy reigns and the consequences non-existent. 
@@ -132,19 +131,20 @@ NOTE: the level of the Market must exceed the level of the magical item/scroll/e
  
 ## Military Services
 Armory, availability of mercenaries. _Levels as Fighter_
-- Level 0 - non-existent and/or useless
-- Level 1 - supports 1 armorer - no mercenaries
-- Level 2 - supports 2 armorers/gunsmiths - light footmen available as mercenaries
-- Level 3 - supports 3 armorers/gunsmiths - archers/crossbowmen available as mercenaries
-- Level 4 - supports 4 armorers/gunsmiths, one of whom is now an Expert (can create mundane weapons/armor with +1 bonus at x30 cost) - musketeers/heavy footmen - non-human mercenaries available.
-- Level 5 - supports 5 armorers/gunsmiths, two of whom are Experts, and the Experts can use exotic materials (see list below, Market Services must also be at level 5). - light horsemen available
-- Level 6 - supports 6 armorers/gunsmiths, two of who are Experts and one of whom is a Master (+2 total mundane bonus to weapons at x500 cost) - heavy horsemen available
-- Level 7 - supports 7 armorers/gunsmiths - unique mercenaries available
+- Level 0 - Non-existent.
+- Level 1 - A few random, mundane weapons and armor are available for sale. An armorer arrives and arranges construction on a building for housing an armory and conducting mercenary business. He also sends out word of it's availability.
+- Level 2 - The mercenary barracks is completed with room for growth. One armorer arrives and gets to work. More options available at the armory. Word is sent out to mercenaries abroad that Canyon's Whisper has work.
+- Level 2 - Light footmen arrive and are available for hire as mercenaries.
+- Level 3 - A second armorer arrives, the armory expands. Archers/crossbowmen available as mercenaries.
+- Level 4 - One of the armorers is now an Expert and can create mundane weapons/armor with +1 bonus at x30 cost. Heavy footmen, non-human mercenaries available as mercenaries.
+- Level 5 - Another expert armor arrives, and the Experts can use exotic materials. Light horsemen available as mercenaries.
+- Level 6 - One of the experts graduates Anabasis University with a major in Applied Percussive and Ablative Metallurgy with honors in Esoteric Substrates. The armory now offers equipment with a +2 total mundane bonus to weapons at x500 cost. Heavy horsemen available to hire as mercenaries.
+- Level 7 - supports 7 armorers - unique mercenaries available
  
 ## Market Services
 Availability of items/gear/etc. _Levels as Thief_
-- Level 0 - may be able to buy potatoes
-- Level 1 - basic supplies and equipment
+- Level 0 - Essential survival and farm supplies available. Animal feed, rope, torches and lantern's etc. 
+- Level 1 - Basic supplies and equipment
 - Level 2 - May reroll failures once on availability.
 - Level 3 - May reroll failures twice on availability. A jeweler is now available: Any type of gem 50 gp or less - 80% availability; Gems 50 to 500 gp or less - 30% availability; Gems 500 or more - 5% availability.
 - Level 4 - May reroll failures thrice on availability. Expert tier equipment becomes available - this costs x50, has 1/2 availability of the item in question, and provides a +1 bonus to suitable rolls made with that item. Poisons per Carcass Crawler #5, pages 18-19, become available. Availability = chance of detection (except for Antithesis of Weal, that has a 2% availability).
