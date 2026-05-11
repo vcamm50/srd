@@ -157,11 +157,11 @@ Access to magical capabilities. _Levels as Magic-user_
 
 NOTE: the level of the Market must exceed the level of the magical item/scroll/etc being created for it to be available.
 - Level 0 - Not a damn thing
-- Level 1 - one occultist; can cast level 1 spells
-- Level 2 - one occultist; can cast level 2 spells - also 1 of alchemist, sage, enchanter
-- Level 3 - Level 1 and 2 magic-user/illusionist scrolls may be available in the Market.
-- Level 4 - two occultists; can cast level 3 spells - also 2 of alchemist, sage, enchanters
-- Level 5 - Level 3 magic-user/illusionist scrolls may be available in the Market
-- Level 6 - two occultists; can cast level 4 spells - all of alchemist, sage, enchanter
-- Level 7 - Level 4 magic-user/illusionist scrolls may be available in the Market
-- Level 8 - three occultists, can cast level 5 spells - one extra of alchemist, sage, enchanter
+- Level 1 - An alchemist and an occultist arrives from the capital and works out of a small house. They brought with them large tombs on potion and item creation to learn as they help the community grow. The alchemist can identify common potions only. The occultist can cast level 1 spells only. 
+- Level 2 - The occultist gains a level. He can cast level 2 spells. The alchemist can make healing, fire resistance, and heroism potions which are available in the market. He can identify any potion.
+- Level 3 - The occultist and alchemist move to a bigger location with appropriate lab space. The occultist is now able to create level 1 and 2 magic-user/illusionist scrolls. The alchemist can make most potions beyond the basics and there's a 50% chance of them being available in the market.
+- Level 4 - The mages open their own space in the market but still supply their items in other stores too. A second occultist arrives to help with item creation. They can now cast level 3 spells and identify any magic item. The alchemist can make any potion as a special order but he's incredibly busy so there's a long wait. There's a 65% chance any potion besides the basics are available in the market.
+- Level 5 - The occultists further their research and can now offer level 3 scrolls of any magic user/illusionist spells. Another alchemist arrives to help out. The magic shop stocks all potions and there's a 75% chance they're available elsewhere in the market.
+- Level 6 - The occultists can cast level 4 spells. Potions are available everywhere.
+- Level 7 - Level 4 magic-user/illusionist scrolls may be available in the Market.
+- Level 8 - A master wizard arrives to inspect the occultists work and likes what sees. He decides to stay. They can cast level 5 spells, identify any magic item. The alchemists are pros and can supply any potion, any amount on demand.
