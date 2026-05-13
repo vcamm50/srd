@@ -14,6 +14,6 @@ Stonehell is a living place with lots of life forms, both monsters and intellige
 
 The table below will summarize your discoveries to date. Follow the links for more details.
 
-| Name       | Location         | Motivation        | Disposition |
-| ---------- | ---------------- | ----------------- | ----------- |
-| SRD (you!) | Canyon's Whisper | Urban development | Friendly    |
+| Name       | Location                                               | Motivation        | Disposition |
+| ---------- | ------------------------------------------------------ | ----------------- | ----------- |
+| SRD (you!) | [Canyon's Whisper](../Locations/Canyon's%20Whisper.md) | Urban development | Friendly    |

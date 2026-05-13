@@ -22,7 +22,7 @@ See [Improving Canyon's Whisper](../House%20Rules/Improving%20Canyon's%20Whisper
 ## Market Services
 **Level**: 0
 
-**Offerings**: Common equipment useful to a small farm community only. For example: rope, lanterns, iron spikes are available but not wolfsbane, spyglasses, or thieves tools. Questionable items like backpacks, rations, and the like have a 35% chance of being available (re-roll weekly).
+**Offerings**: Common equipment useful to a small farm community only. For example: rope, lanterns, iron spikes have a 50% chance of being available but not chance of finding wolfsbane, spyglasses, or thieves tools. Items that may have a purpose in a small community, like backpacks, rations, etc., have a 35% chance of being available (re-roll weekly).
 ## Inn Services
 **Level**: 0
 

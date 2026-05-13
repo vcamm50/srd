@@ -29,7 +29,7 @@ Reps can devote their money into a single service and control its growth as they
 # Services
 Everything starts at level 0 and progresses as a specific character class. Services cannot progress beyond Canyon Whisper's level as it represents the development of the land and population. Think of it like putting a Super Walmart in a town of 100 people.
 
-The following is the list of services and the benefits of each level. See the [Services](../Locations/Canyon's%20Whisper.md#Services) section for their current levels and what they provide.
+The following is the list of services and the benefits of each level. See the [Services section here](../Locations/Canyon's%20Whisper.md#Services) for their current levels and what each provides.
 
 ## Canyon's Whisper
 The town itself. Upgrading the town adds housing of new citizens, attracts essential workers, and provides space for other service' upgrades.
@@ -39,24 +39,28 @@ Canyon's Whisper levels every 1000xp.
 - Level 0 - Hamlet
     - Current town. 
     - Population 100 permanent residents
-    - Small area for shops, not much room for expansion.
+    - Shops are scattered around, not much room for expansion.
+    - No town guards or police force.
     - Level 1 retainers available for hire.
 - Level 1 - Small Village
     - Land expansion to permit an additional farm and housing of new arrivals.
     - Population 250 permanent residents
     - Essential workers arrive. Blacksmiths, carpenters, loggers, etc. to support town expansion.
+    - No town guards or police force.
     - Level 2 and below retainers available for hire.
 - Level 2 - Medium Village
     - Land expansion to permit an additional farm and housing of new arrivals.
     - Market size is increased.
     - Population 500 permanent residents
     - Additional essential workers arrive. More hands means faster progress.
+    - A town sheriff, a level 1 fighter, is hired along with one level 0 deputy .
     - Level 3 and below retainers available for hire.
 - Level 3 - Large Village
     - Further land expansion, farms, housing.
     - Population 1000 permanent residents
     - A proper market district is created at the center of town to attract merchants with more variety.
     - A bank is built. **Maybe we'll set up interest rate or treasure stored there. Or maybe we'll make it a separate service.
+    - Two more level 0 deputies.
     - Level 4 and below retainers available for hire.
 - Level 4 - Small town
     - Housing is built to accommodate the population such as apartment-like structures.
@@ -66,6 +70,7 @@ Canyon's Whisper levels every 1000xp.
     - A Town Hall is built to host town meetings, events and faires. 
     - A small one-room schoolhouse is built for young children.
     - A sewer and aqueduct system begins construction to support the growing population. 
+    - The sheriff is now level 2, three deputies are level 1 fighters, five level 0 deputies are hired. A police station is built at the town's main entrance.
     - Guilds begin to appear. A carpenter guild, infrastructure guild, some others you may or may not know about.
     - Level 5 and below retainers available for hire.
 - Level 5 - Medium town
@@ -75,6 +80,7 @@ Canyon's Whisper levels every 1000xp.
     - The sewer and aqueduct system is completed. Retrofitting existing houses to utilize them begins. 
     - Breweries and a winery is built to provide the taverns with more variety. Good taverns mean higher morale.
     - A wizard of renown moves in and occasional offers his help for a ridiculous fee (the magical service level will override this).
+    - A legitimate police is created. The sheriff is now a level 3 fighter and is promoted to Captain of the Guard. He has three level 2 fighter lieutenants. 5 guards at level 1, and many more level 0 guards. A wall around the town begins construction with a gate at the main entrance.
     - Level 6 and below retainers available for hire.
 - Level 6 - Small city
     - Canyon's Whisper gains a reputation in the kingdom. Depending on the levels of other services, the reputation can be a fast growing settlement with lots of work available and the hope of a better life or could be a rogues paradise where anarchy reigns and the consequences non-existent. 
@@ -82,6 +88,7 @@ Canyon's Whisper levels every 1000xp.
     - All new and most existing homes have sewer and water available.
     - A theater is built for local and traveling performances.
     - A small barracks is built where military troops are trained and stationed (the military service level will override this). 
+    - The town guard is a sizable force which guards the entrances, polices the town with a focus on the market, investigates crimes, breaks up fights, etc. Rangers, magic users, and even some rogues are amidst the ranks.
     - Level 7 and below retainers available for hire.
 - Level 7 - Large city
     - Canyon's Whisper is a proper city with plenty of work, a sizable market district with just about anything available, indoor plumbing (sorta), guild services, an arts scene etc. If the committee focused the town's growth on a particular craft (cuisine, performance arts, history, etc.), the reputation is out there but other service levels may influence the reputation as good or bad.
@@ -91,16 +98,17 @@ Canyon's Whisper levels every 1000xp.
         - The theater becomes the center of the arts district including an art gallery, street performers, fashion, etc.
         - The library district will feature a general library and other magic establishments achieved by the magic services level.
         - Canyon's Whisper gets a few tourist spots with Stonehell themes. Kinda like Salem, Massachusetts and the witch trials.
+    - The town guard is an impressive force with regular training with the military barracks in town. The wall is completed and can provide enough safety from anything except largest armies.
 
 ## Market Services
-Availability of items/gear/etc. _Levels as Thief_
-- Level 0 - Essential survival and farm supplies available. Animal feed, rope, torches and lantern's etc. 
-- Level 1 - Basic supplies and equipment
+Availability of items/gear/etc. Checks can be remade each week. _Levels as Thief_.
+- Level 0 - Essential survival and farm supplies have a 50% chance of being available. Animal feed, rope, torches and lantern's etc.
+- Level 1 - Basic supplies and equipment have a 75% chance of being available.
 - Level 2 - May reroll failures once on availability.
-- Level 3 - May reroll failures twice on availability. A jeweler is now available: Any type of gem 50 gp or less - 80% availability; Gems 50 to 500 gp or less - 30% availability; Gems 500 or more - 5% availability.
-- Level 4 - May reroll failures thrice on availability. Expert tier equipment becomes available - this costs x50, has 1/2 availability of the item in question, and provides a +1 bonus to suitable rolls made with that item. Poisons per Carcass Crawler #5, pages 18-19, become available. Availability = chance of detection (except for Antithesis of Weal, that has a 2% availability).
-- Level 5 - May reroll failures thrice on availability. Exotic materials become available for the creation of weapons and armor. Military Services must also be at level 5 to use.
-- Level 6 - May reroll failures thrice on availability. Master tier equipment becomes available. This costs x30, has 1/4 availability of the item in question, and provides either a +2 bonus to suitable rolls or a +1 bonus to two different suitable rolls.
+- Level 3 - All basic equipment are available for purchase. A jeweler is now available: Any type of gem 50 gp or less - 80% availability; gems 50 to 500 gp - 30% availability; gems 500 gp or more - 5% availability.
+- Level 4 - Expert tier equipment becomes available - this costs x50, has a 50% availablity chance of the item in question but provides a +1 bonus to suitable rolls made with that item. A chemist opens a shop in a dark corner of the market. Poisons available per Carcass Crawler #5, pages 18-19, become available. Availability = chance of detection (except for Antithesis of Weal, that has a 2% availability).
+- Level 5 - Exotic materials become available for the creation of weapons and armor. Military Services must also be at level 5 to use.
+- Level 6 - Master tier equipment becomes available. This costs x30, has 25% availability chance of the item in question, and provides either a +2 bonus to suitable rolls or a +1 bonus to two different suitable rolls.
 - Level 7 - Availability is no longer checked; all things are available.
 
 ## Inn Services
@@ -131,7 +139,7 @@ Armory, availability of mercenaries. _Levels as Fighter_
 ## Temple Services
 Access to priests, and other religious capabilities. _Levels as Cleric_.
 
-NOTE: the level of the Market must exceed the level of the magical item/scroll/etc being created for it to be available.
+*NOTE: the level of the Market must exceed the level of the magical item/scroll/etc being created for it to be available.*
 - Level 0 - The "temple" is really just a single room shack with a generic alter to no specific god. No services are held as there are no priests working there. No healing or training services are available. Finding someone else willing to train a cleric class is extremely difficult.
 - Level 1 - Two priests arrive from the abroad. One operates from the shack to provide interim services while the other oversees the construction of a new temple. 
     - Level 1 spells services become available at the temples.
@@ -155,7 +163,7 @@ NOTE: the level of the Market must exceed the level of the magical item/scroll/e
 ## Magical Services
 Access to magical capabilities. _Levels as Magic-user_
 
-NOTE: the level of the Market must exceed the level of the magical item/scroll/etc being created for it to be available.
+*NOTE: the level of the Market must exceed the level of the magical item/scroll/etc being created for it to be available.*
 - Level 0 - Not a damn thing
 - Level 1 - An alchemist and an occultist arrives from the capital and works out of a small house. They brought with them large tombs on potion and item creation to learn as they help the community grow. The alchemist can identify common potions only. The occultist can cast level 1 spells only. 
 - Level 2 - The occultist gains a level. He can cast level 2 spells. The alchemist can make healing, fire resistance, and heroism potions which are available in the market. He can identify any potion.
