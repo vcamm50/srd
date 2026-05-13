@@ -14,7 +14,7 @@ OSE rules say experience is gained by treasure and monster XP. This remains true
 # Agents
 - Agents gain experience by their time on excursions (monster slaying or other awards) as well as treasure returned to [Canyon's Whisper](../Locations/Canyon's%20Whisper.md) as per the OSE rules.
 - Majority of an Agent's XP will be gained from treasure returned to Canyon's Whisper. This is just how OSR rules work.
-- However, I will award XP from monsters as I define as "defeated." Meaning you don't have kill them, just remove them as a threat. I understand some situations may result in a judgement call, and you're stuck with my ruling, but I feel this will also generate some creative thinking and problem resolution and that should be awarded.
+- However, I will award XP from monsters as I define as "defeated." Meaning you don't have kill them, just remove them as a threat. I feel this will generate some creative thinking and problem resolution and I want to reward that.
  
 # Hirelings
 As mentioned in the [Hirelings](Hirelings.md) section, Hirelings gain XP per OSE rules. They gain half share of total monster XP and returned treasure to Canyon's Whisper. They do not keep any treasure unless agreed upon in their contract.
