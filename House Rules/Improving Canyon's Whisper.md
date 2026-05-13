@@ -29,7 +29,7 @@ Reps can devote their money into a single service and control its growth as they
 # Services
 Everything starts at level 0 and progresses as a specific character class. Services cannot progress beyond Canyon Whisper's level as it represents the development of the land and population. Think of it like putting a Super Walmart in a town of 100 people.
 
-The following is the list of services with the existing ones first.
+The following is the list of services and the benefits of each level. See the [Services](../Locations/Canyon's%20Whisper.md#Services) section for their current levels and what they provide.
 
 ## Canyon's Whisper
 The town itself. Upgrading the town adds housing of new citizens, attracts essential workers, and provides space for other service' upgrades.
@@ -91,7 +91,18 @@ Canyon's Whisper levels every 1000xp.
         - The theater becomes the center of the arts district including an art gallery, street performers, fashion, etc.
         - The library district will feature a general library and other magic establishments achieved by the magic services level.
         - Canyon's Whisper gets a few tourist spots with Stonehell themes. Kinda like Salem, Massachusetts and the witch trials.
- 
+
+## Market Services
+Availability of items/gear/etc. _Levels as Thief_
+- Level 0 - Essential survival and farm supplies available. Animal feed, rope, torches and lantern's etc. 
+- Level 1 - Basic supplies and equipment
+- Level 2 - May reroll failures once on availability.
+- Level 3 - May reroll failures twice on availability. A jeweler is now available: Any type of gem 50 gp or less - 80% availability; Gems 50 to 500 gp or less - 30% availability; Gems 500 or more - 5% availability.
+- Level 4 - May reroll failures thrice on availability. Expert tier equipment becomes available - this costs x50, has 1/2 availability of the item in question, and provides a +1 bonus to suitable rolls made with that item. Poisons per Carcass Crawler #5, pages 18-19, become available. Availability = chance of detection (except for Antithesis of Weal, that has a 2% availability).
+- Level 5 - May reroll failures thrice on availability. Exotic materials become available for the creation of weapons and armor. Military Services must also be at level 5 to use.
+- Level 6 - May reroll failures thrice on availability. Master tier equipment becomes available. This costs x30, has 1/4 availability of the item in question, and provides either a +2 bonus to suitable rolls or a +1 bonus to two different suitable rolls.
+- Level 7 - Availability is no longer checked; all things are available.
+
 ## Inn Services
 Lodgings, entertainment, food. [Carousing](Carousing.md) becomes available at level 1 and the gp die increases each level, i.e. level 3 allows 3d6x50 gp.  _Levels as Bard._
 
@@ -104,7 +115,19 @@ Lodgings, entertainment, food. [Carousing](Carousing.md) becomes available at le
     - The food has become so good and nutritious that meals will provide a +1 to constitution based attacks and saving throws vs poison for one day. Unless you're one of those weirdos that doesn't eat the side of seasonal vegetables.
 - Level 6 - The fruit farm has harvested a good crop which turned out excellent wine flavors. The inns and taverns become must-see places to visit for travelers of Anabasis, each having their own niche that attracts different interests. At the Inns, the self-made chef's cuisine provides a unique experience for the palette along with and impressive beer and wine list that rival the capital city's. The smaller taverns with their homebrews are no slouches in the alcohol options as well. The entertainment is top notch, the rooms are clean and so are the whores (mostly). Hey, did a renowned master distiller just move to Canyon's Whisper.
 - Level 7 - Canyon's Whisper is a now a famous destination known for its hospitality and cuisine. Travelers come and go daily looking to experience it for themselves and they often bring rumors, interesting items to sell, jobs for the job board, etc.
- 
+
+## Military Services
+Armory, availability of mercenaries. _Levels as Fighter_
+- Level 0 - Non-existent.
+- Level 1 - A few random, mundane weapons and armor are available for sale. An armorer arrives and arranges construction on a building for housing an armory and conducting mercenary business. He also sends out word of it's availability.
+- Level 2 - The mercenary barracks is completed with room for growth. One armorer arrives and gets to work. More options available at the armory. Word is sent out to mercenaries abroad that Canyon's Whisper has work.
+- Level 2 - Light footmen arrive and are available for hire as mercenaries.
+- Level 3 - A second armorer arrives, the armory expands. Archers/crossbowmen available as mercenaries.
+- Level 4 - One of the armorers is now an Expert and can create mundane weapons/armor with +1 bonus at x30 cost. Heavy footmen, non-human mercenaries available as mercenaries.
+- Level 5 - Another expert armor arrives, and the Experts can use exotic materials. Light horsemen available as mercenaries.
+- Level 6 - One of the experts graduates Anabasis University with a major in Applied Percussive and Ablative Metallurgy with honors in Esoteric Substrates. The armory now offers equipment with a +2 total mundane bonus to weapons at x500 cost. Heavy horsemen available to hire as mercenaries.
+- Level 7 - supports 7 armorers - unique mercenaries available
+
 ## Temple Services
 Access to priests, and other religious capabilities. _Levels as Cleric_.
 
@@ -128,30 +151,7 @@ NOTE: the level of the Market must exceed the level of the magical item/scroll/e
     - Level 4 clerical spell scrolls become available in the market (supplies are limited).
 - Level 8 - Canyon's Whisper becomes known as a great place to worship and live the pious life.
     - Level 5 spell services are available at the temples, level 3 spell services are available elsewhere (small religious venues, weird street preachers, etc.).
- 
-## Military Services
-Armory, availability of mercenaries. _Levels as Fighter_
-- Level 0 - Non-existent.
-- Level 1 - A few random, mundane weapons and armor are available for sale. An armorer arrives and arranges construction on a building for housing an armory and conducting mercenary business. He also sends out word of it's availability.
-- Level 2 - The mercenary barracks is completed with room for growth. One armorer arrives and gets to work. More options available at the armory. Word is sent out to mercenaries abroad that Canyon's Whisper has work.
-- Level 2 - Light footmen arrive and are available for hire as mercenaries.
-- Level 3 - A second armorer arrives, the armory expands. Archers/crossbowmen available as mercenaries.
-- Level 4 - One of the armorers is now an Expert and can create mundane weapons/armor with +1 bonus at x30 cost. Heavy footmen, non-human mercenaries available as mercenaries.
-- Level 5 - Another expert armor arrives, and the Experts can use exotic materials. Light horsemen available as mercenaries.
-- Level 6 - One of the experts graduates Anabasis University with a major in Applied Percussive and Ablative Metallurgy with honors in Esoteric Substrates. The armory now offers equipment with a +2 total mundane bonus to weapons at x500 cost. Heavy horsemen available to hire as mercenaries.
-- Level 7 - supports 7 armorers - unique mercenaries available
- 
-## Market Services
-Availability of items/gear/etc. _Levels as Thief_
-- Level 0 - Essential survival and farm supplies available. Animal feed, rope, torches and lantern's etc. 
-- Level 1 - Basic supplies and equipment
-- Level 2 - May reroll failures once on availability.
-- Level 3 - May reroll failures twice on availability. A jeweler is now available: Any type of gem 50 gp or less - 80% availability; Gems 50 to 500 gp or less - 30% availability; Gems 500 or more - 5% availability.
-- Level 4 - May reroll failures thrice on availability. Expert tier equipment becomes available - this costs x50, has 1/2 availability of the item in question, and provides a +1 bonus to suitable rolls made with that item. Poisons per Carcass Crawler #5, pages 18-19, become available. Availability = chance of detection (except for Antithesis of Weal, that has a 2% availability).
-- Level 5 - May reroll failures thrice on availability. Exotic materials become available for the creation of weapons and armor. Military Services must also be at level 5 to use.
-- Level 6 - May reroll failures thrice on availability. Master tier equipment becomes available. This costs x30, has 1/4 availability of the item in question, and provides either a +2 bonus to suitable rolls or a +1 bonus to two different suitable rolls.
-- Level 7 - Availability is no longer checked; all things are available.
- 
+
 ## Magical Services
 Access to magical capabilities. _Levels as Magic-user_
 
