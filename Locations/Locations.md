@@ -4,7 +4,7 @@ title: Locations
 published: true
 has_children: true
 has_toc: false
-nav_order: 6
+nav_order: 5
 ---
 This section notes the locations you have visited during your travels. The table below is a summarized list. See the location's page for more details.
 
