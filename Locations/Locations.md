@@ -8,7 +8,6 @@ nav_order: 5
 ---
 This section notes the locations you have visited during your travels. The table below is a summarized list. See the location's page for more details.
 
-
 | Name                                                                     | Type    | Disposition |
 | --------------------------------------------------------------------- | ------- | ----------- |
 | [The Kingdom of Anabasis](../Locations/The%20Kingdom%20of%20Anabasis.md) | Kingdom | Varies      |
