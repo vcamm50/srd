@@ -8,4 +8,6 @@ nav_order: 2
 ---
 This section contains the new and significant guidelines used at the table that are not found within the rulebooks.
 
+---
+
 ![What they do when you're not home](../assets/dnd-cats.png)

@@ -12,7 +12,6 @@ Our fallen heroes will be memorialized here.
 | ------------ | -------------------- | ----- | --------------------- |
 | Paul Reubens | Human                | Bard  | Fuckin cancer         |
 
-
 ---
 
 ![Slain by the humble 1](../assets/tombstone-mourners.webp)
