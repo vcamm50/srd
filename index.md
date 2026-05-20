@@ -9,4 +9,7 @@ Welcome to the site for The Stonehell Reclamation Committee. All history, homebr
 
 Click the button at the top to open Foundry VTT and join during live game sessions.
 
+---
+
+
 ![Not the actual Stonehell entrance](assets/stonehell-entrance.png)
