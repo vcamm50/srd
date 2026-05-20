@@ -7,3 +7,7 @@ has_toc: false
 nav_order: 3
 ---
 Sessions recaps will go in this folder.
+
+---
+
+![Eh?](../assets/huh.gif)
