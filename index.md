@@ -11,5 +11,4 @@ Click the button at the top to open Foundry VTT and join during live game sessio
 
 ---
 
-
 ![Not the actual Stonehell entrance](assets/stonehell-entrance.png)
